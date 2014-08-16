@@ -5,7 +5,7 @@ learned to sight read.
 
 ![color notes](https://raw.github.com/rajbot/musescore_color_notes_high_contrast/master/colornotes.png)
 
-We use higher-contrast colors from the a HSV colormap, which is eaiser
+We use higher-contrast colors from the HSV colormap, which is eaiser
 for younger children to read. Also, instead of using 12 distinct colors,
 we repeat the same color for both a note and its corresponding sharp.
 Finally, since we are repeating colors, we have hand-picked the colors
