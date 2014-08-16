@@ -27,7 +27,10 @@
 //
 
 /*
-This is a version of the MuseScore Color Notes plugin modified for young learners.
+This is a version of the MuseScore Color Notes plugin that has been
+modified for young learners. It is intended with a piano that has
+colored stickers placed on the keys, for small children who have not yet
+learned to sight read.
 
 We use higher-contrast colors from the a HSV colormap, which is eaiser
 for younger children to read. Also, instead of using 12 distinct colors,
@@ -36,10 +39,10 @@ Finally, since we are repeating colors, we have hand-picked the colors
 in the colormap to match the colors that Ravi's grandpa uses in the
 music books he writes.
 
-Here is the python code That generated the color array below. I then
-went in my hand and repeated some of the colors (e.g. C and C# have the
-same color. Every time I repeated a color, I removed a different one, so
-that there would still be 12 entries in the array.
+Below is the python code that generated the color array. The resulting
+array was then hand-edited to repeat some colors (e.g. C and C# have the
+same color). Every time a color was repeated, I removed a different one,
+so that there would still be 12 entries in the array.
 
 colors = matplotlib.pyplot.cm.hsv(arange(256))
 num = 0
