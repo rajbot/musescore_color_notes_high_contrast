@@ -3,6 +3,8 @@ modified for young learners. It is intended with a piano that has
 colored stickers placed on the keys, for small children who have not yet
 learned to sight read.
 
+![color notes](https://raw.github.com/rajbot/musescore_color_notes_high_contrast/master/colornotes.png)
+
 We use higher-contrast colors from the a HSV colormap, which is eaiser
 for younger children to read. Also, instead of using 12 distinct colors,
 we repeat the same color for both a note and its corresponding sharp.
