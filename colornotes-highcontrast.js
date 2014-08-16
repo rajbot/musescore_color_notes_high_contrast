@@ -28,7 +28,7 @@
 
 /*
 This is a version of the MuseScore Color Notes plugin that has been
-modified for young learners. It is intended with a piano that has
+modified for young learners. It is intended for use with a piano that has
 colored stickers placed on the keys, for small children who have not yet
 learned to sight read.
 
